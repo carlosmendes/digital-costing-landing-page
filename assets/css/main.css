@@ -2528,10 +2528,10 @@
 
 		table th {
 			color: #555555;
-			font-size: 0.9em;
+			/*font-size: 0.9em;*/
 			font-weight: 900;
 			padding: 0 0.75em 0.75em 0.75em;
-			text-align: left;
+			/*text-align: left;*/
 		}
 
 		table thead {
@@ -2540,6 +2540,9 @@
 
 		table tfoot {
 			border-top: solid 2px #dddddd;
+			color: #555555;
+			font-size: 1.1em;
+			font-weight: 900;
 		}
 
 		table.alt {
